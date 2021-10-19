@@ -1,1 +1,1 @@
-# Network-Science
+# Neuroscience
